@@ -5,6 +5,7 @@ colorama==0.4.1
 cycler==0.10.0
 dnspython==1.16.0
 Flask==1.0.3
+Flask-PyMongo==2.3.0
 isort==4.3.20
 itsdangerous==1.1.0
 Jinja2==2.10.1

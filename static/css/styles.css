@@ -1,0 +1,13 @@
+.small-button {
+  width: 60px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  margin: 5px;
+  padding: 0 0.5em;
+}
+
+.collapsible-header .s9 {
+  margin-top: 5px;
+  margin-left: 20px;
+}
